@@ -8,5 +8,3 @@ Thanks for the following two authors in their own blogs which helped me to estab
 [http://www.pstips.net/set-wallpaper-by-bing-image.html](http://www.pstips.net/set-wallpaper-by-bing-image.html)  (Mooser Lee)
 
 Get-Bing-Wallpaper.ps1 is the main power script file, you can run it in your powershell command line.
-
-You can also place ChangeWallpaper.vbs into your startup menu to update your wallpaper silently while you login Windows.
