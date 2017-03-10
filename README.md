@@ -9,4 +9,4 @@ Thanks for the following two authors in their own blogs which helped me to estab
 
 Get-Bing-Wallpaper.ps1 is the main power script file, you can run it in your powershell command line.
 
-You can also place ChangeWallpaper.vbs into your startup menu to update your wallpaper each time you login silently.
+You can also place ChangeWallpaper.vbs into your startup menu to update your wallpaper silently while you login Windows.
